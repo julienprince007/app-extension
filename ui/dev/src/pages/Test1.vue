@@ -1,6 +1,6 @@
 <template>
   <q-page padding>
-    <Auth />
+    <Auth label="prince" />
   </q-page>
 </template>
 
